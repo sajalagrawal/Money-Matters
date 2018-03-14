@@ -1,0 +1,38 @@
+.navbar{
+    background-color: #FBF8F8;
+    border:none;
+    color:red;
+    padding: 10px;
+    font-size:18px;
+} 
+
+ body{
+    font-family: 'Lato','Helvetica Neue',Helvetica,Arial,sans-serif !important;
+}
+
+
+@media (min-width:320px){
+    #autoResize{
+        font-size:12px;
+    }
+}
+@media (min-width:481px){
+    #autoResize{
+        font-size:16px;
+    }
+}
+@media (min-width:641px){
+    #autoResize{
+        font-size:18px;
+    }
+}
+@media (min-width:961px){
+    #autoResize{
+        font-size:20px;
+    }
+}
+@media (min-width:1000px){
+    #autoResize{
+        font-size:22px;
+    }
+}
